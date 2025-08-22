@@ -1,0 +1,6 @@
+landing-page/
+ ├── index.html
+ ├── style.css
+ ├── script.js
+ ├── .gitignore
+ ├── README.md

@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  background: #222;
+  color: white;
+  padding: 10px 20px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+nav.scrolled {
+  background: #444;
+}
+
+section {
+  padding: 100px 20px;
+  margin-top: 60px;
+}
+
+#hero {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  color: white;
+  text-align: center;
+  padding: 150px 20px;
+}

@@ -1,0 +1,10 @@
+landing/
+├── index.html
+├── styles/
+│   └── style.css
+├── images/
+│   ├── logo.png
+│   └── logo.svg
+├── README.md
+├── .gitignore
+└── vercel.json

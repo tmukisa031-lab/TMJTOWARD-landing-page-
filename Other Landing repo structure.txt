@@ -1,0 +1,5 @@
+landing-page-repo/
+│── index.html
+│── style.css
+│── script.js
+│── config.json

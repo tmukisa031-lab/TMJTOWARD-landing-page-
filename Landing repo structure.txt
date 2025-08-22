@@ -1,0 +1,11 @@
+titusmukisamjtoward-landing/
+├── README.md
+├── .gitignore
+├── Vercel.json 
+├── index.html
+├── styles/
+│   └── main.css
+├── public/
+│   ├── favicon.ico
+│   ├── logo-placeholder.png
+│   └── manifest.json

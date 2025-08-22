@@ -1,0 +1,4 @@
+/landing-page
+├── index.html      # The main landing page
+├── style.css       # Styles
+├── script.js       # Your JavaScript (interactions)

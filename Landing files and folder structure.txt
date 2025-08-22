@@ -1,0 +1,11 @@
+landing/
+│
+├── index.html
+├── style.css
+├── README.md
+├── .gitignore
+├── vercel.json
+│
+└── public/
+    ├── hero-image.jpg
+    └── logo.png
